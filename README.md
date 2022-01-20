@@ -1,6 +1,3 @@
 # best-repo-ever
-<<<<<<< Updated upstream
+changing it over branch...this is in featurebranch...
 kkskksk
-=======
-Hello..added..changing in local machine..
->>>>>>> Stashed changes
